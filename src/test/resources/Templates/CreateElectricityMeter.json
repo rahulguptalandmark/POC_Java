@@ -1,0 +1,35 @@
+{
+  "mpxn": "ERPITA3111016",
+  "networkProvisionMpid": "ERD2",
+  "networkProvisionRole": "ERDA",
+  "networkProvisionFromDate": "2020-04-15T22:57:49.000Z",
+  "meteringPointEnergyFlow": "I",
+  "meteringPointEnergyFlowFromDate": "2020-02-20T22:57:49.000Z",
+  "meteringPointMeteredInd": true,
+  "rmpStatus": "C",
+  "rmpStatusFromDate": "2020-04-15T22:57:49.000Z",
+  "mplAddress": {
+    "deliveryPointAlias": "ACME Ltd",
+    "subBuildingNameOrNumber": "Flat 1",
+    "buildingName": "Rose Cottage",
+    "buildingNumber": "22",
+    "dependantThoroughfare": "Cheshunt",
+    "thoroughfare": "Cypress",
+    "doubleDependantLocality": "Type Industrial Estate",
+    "dependantLocality": "Blantyre",
+    "postTown": "Reading",
+    "county": "Devon",
+    "postcode": "SW1P 3UX",
+    "uprn": 123456789
+  },
+  "timeBoundaryAlignmentStatus": "Settlement Day",
+  "dccServiceInd": false,
+  "greenDealFromDate": "2019-08-07T22:57:49.000Z",
+  "greenDealToDate": "2020-08-07T22:57:49.000Z",
+  "assetOwnershipMaps": [
+    {
+      "mpid": "MAP1",
+      "role": "MAP"
+    }
+  ]
+}
